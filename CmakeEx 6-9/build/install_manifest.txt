@@ -1,0 +1,3 @@
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/include/calc.cpp
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/include/calc.hpp
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/executable/HelloCMakeBinary

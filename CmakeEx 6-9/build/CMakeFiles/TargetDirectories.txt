@@ -1,0 +1,14 @@
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/build/CMakeFiles/HelloCMakeBinary.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/build/CMakeFiles/edit_cache.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/build/CMakeFiles/rebuild_cache.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/build/CMakeFiles/list_install_components.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/build/CMakeFiles/install.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/build/CMakeFiles/install/local.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/build/CMakeFiles/install/strip.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/build/lib/CMakeFiles/calc_lib.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/build/lib/CMakeFiles/edit_cache.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/build/lib/CMakeFiles/rebuild_cache.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/build/lib/CMakeFiles/list_install_components.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/build/lib/CMakeFiles/install.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/build/lib/CMakeFiles/install/local.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake6-10/build/lib/CMakeFiles/install/strip.dir

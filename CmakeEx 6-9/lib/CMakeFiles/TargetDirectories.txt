@@ -1,0 +1,6 @@
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/lib/CMakeFiles/HelloCMakeBinary.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/lib/CMakeFiles/edit_cache.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/lib/CMakeFiles/rebuild_cache.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/lib/lib/CMakeFiles/calc_lib.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/lib/lib/CMakeFiles/edit_cache.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/lib/lib/CMakeFiles/rebuild_cache.dir

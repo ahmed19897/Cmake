@@ -1,0 +1,2 @@
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake 10-14/CMakeFiles/edit_cache.dir
+/home/ahmed9714/Desktop/EmbeddedLinux/cmake/Cmake 10-14/CMakeFiles/rebuild_cache.dir

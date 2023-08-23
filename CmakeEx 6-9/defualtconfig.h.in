@@ -1,0 +1,8 @@
+
+#define Product_Type "BMW"
+
+#define PRODUCT_YEAR "${PRODUCT_YEAR}"
+
+#define Major @HelloCmake_VERSION_MAJOR@
+
+#define DEBUGINFO "${DEBUGINFO}"
